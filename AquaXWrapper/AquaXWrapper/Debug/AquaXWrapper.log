@@ -1,0 +1,33 @@
+﻿  DllModule.cpp
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Addresses.hpp(177,81): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,32): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,32): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,38): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,38): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,44): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,44): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,50): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,50): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,56): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,56): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,62): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,62): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,68): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,68): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,74): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(170,74): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(220,4): error C3861: 'r_lua_createtable': identifier not found
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(262,47): error C2198: 'rtolstring': too few arguments for call
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(262,48): error C2660: 'lua_pushstring': function does not take 1 arguments
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Lua\lua.h(164,16): message : see declaration of 'lua_pushstring'
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(281,5): error C3861: 'r_lua_settop': identifier not found
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(283,4): error C3861: 'r_lua_settop': identifier not found
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(344,11): warning C4244: 'initializing': conversion from 'lua_Number' to 'int', possible loss of data
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(353,31): warning C4002: too many arguments for function-like macro invocation 'r_lua_tostring'
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(353,31): error C3861: 'r_lua_tolstring': identifier not found
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(361,5): error C3861: 'r_lua_settop': identifier not found
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\Wrapper.hpp(390,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\DllModule.cpp(15,1): error C2062: type 'void' unexpected
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\DllModule.cpp(16,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\DllModule.cpp(16,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\user\source\repos\AquaXWrapper\AquaXWrapper\DllModule.cpp(33,52): error C2065: 'InitAqua': undeclared identifier
